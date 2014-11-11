@@ -1,0 +1,53 @@
+enter the mode of implementation
+mode isl
+0 0 0 0 0 1 1 0 0 1  
+0 0 0 0 0 0 1 1 0 0  
+0 0 0 0 1 0 0 0 0 0  
+0 0 0 0 0 0 0 0 0 0  
+0 0 1 0 0 0 0 0 0 1  
+1 0 0 0 0 0 0 0 1 0  
+1 1 0 0 0 0 0 1 0 0  
+0 1 0 0 0 0 1 0 0 1  
+0 0 0 0 0 1 0 0 0 0  
+1 0 0 0 1 0 0 1 0 0  
+0.11759462857250176 0.7898439219119702 0.2057906000018781 0.513496544766591 0.03527838857175053 0.22146988381154498 0.06663695619108434 0.017639194285875265 0.03527838857175053 0.0 0.0 number of nodes are100
+value of test
+0.29593189471429826 0.7062083408433694 0.14111138586176858 0.5670659299680328 0.0764254834641478 0.2267819240635344 0.07571851202502292 0.022775592320741295 0.09139490918880998 0.01845099076689631 0.0012257195279775641 search index291
+---------
+0.999930675403529
+----------------------------
+0.9999537532573837
+----------------------------
+0.9999676326123661
+----------------------------
+0.9999943765965058
+----------------------------
+0.9999562785839397
+----------------------------
+0.9999805897422166
+----------------------------
+0.999997388709474
+----------------------------
+the nearest elements are
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph290.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph289.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph272.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph285.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph280.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph286.txt 
+-------
+-------
+/usr/local/hadoop/project/input/SyntheticGraphs4/synGraph279.txt 
+-------
+total time is323511
